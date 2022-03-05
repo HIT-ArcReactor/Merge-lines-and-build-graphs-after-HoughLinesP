@@ -35,7 +35,7 @@ submits
 1. Download the weighs and images ([here](https://pan.baidu.com/s/1SZLPor4Z008unO9cy6fUXg?pwd=8g56))
 1. Place the "first.th" in the "weights" folder
 1. Place only one image in the "submit" folder
-1. Run Merge.py , get the results in "submits" folder
+1. Run Merge.py , get the results in the "submits" folder
 
 
 <br />
